@@ -1,0 +1,7 @@
+AppData/
+.anaconda/
+*.csv
+*.ipynb_checkpoints/
+*.log
+*.sqlite
+*.DAT
