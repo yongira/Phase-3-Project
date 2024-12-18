@@ -1,0 +1,16 @@
+AppData/
+.anaconda/
+*.csv
+*.sqlite
+*.ipynb_checkpoints/
+*.log
+*.DAT
+*.regtrans-ms
+*.ini
+*.jpeg
+*.jpg
+*.png
+.vscode/
+anaconda3/
+*.pyc
+*.class
